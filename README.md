@@ -1,0 +1,8 @@
+# cyber-microtools
+
+A repository of random micro tools to help with activities
+
+| Tool    | Purpose |
+| -------- | ------- |
+| ip_cidr_generator  | Given IPv4 and CIDR, it generates a list of valid IP addresses    |
+| ip_host_status_checker  | Given IPv4 and CIDR, it checks if the host is alive or dead   |

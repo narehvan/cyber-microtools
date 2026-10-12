@@ -1,6 +1,6 @@
 # cyber-microtools
 
-A repository of random micro tools to help with activities
+A repository of random micro tools to help with cyber security activities.
 
 **For each module, check the README.md file in the source directory for details**
 
